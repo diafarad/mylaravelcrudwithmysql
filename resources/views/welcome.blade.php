@@ -26,7 +26,7 @@
             <h2 style="margin-top: 150px" class="text-center">Crud Laravel 8 with Mysql Database</h2>
             <p class="text-center">by <strong><a style="color: deepskyblue; text-decoration: underline" href="https://github.com/diafarad/mylaravelcrudwithmysql">Diafara</a></strong></p>
             <center>
-            <a style="align: center" href="{{ route('students.index') }}" class="btn btn-primary">Voir le CRUD</a>
+            <a style="align: center" href="/students" class="btn btn-primary">Voir le CRUD</a>
         </center>
         </div>
         
